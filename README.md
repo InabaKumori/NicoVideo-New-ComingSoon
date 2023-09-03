@@ -24,7 +24,6 @@ This repository contains the revamped "Coming Soon" landing page for nico.video.
 
 ## Features
 
-- A dynamic "Coming Soon" banner, offering a countdown to the official launch.
 - Detailed section on service offerings, from licensing to cloud services.
 - Contact form for inquiries, feedback, and information requests.
 - New graphical assets that represent our service range, from streaming to server solutions.
@@ -45,7 +44,7 @@ This repository contains the revamped "Coming Soon" landing page for nico.video.
 To install this project locally, follow these steps:
 
 1. Clone the repository:  
-git clone https://github.com/YourUsername/NicoVideo-New-ComingSoon.git
+git clone https://github.com/InabaKumori/NicoVideo-New-ComingSoon.git
 
 
 2. Open the `index.html` file in your preferred web browser.
@@ -76,7 +75,7 @@ To test the project:
 
 ## Roadmap
 
-See the [open issues](https://github.com/YourUsername/NicoVideo-New-ComingSoon/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/InabaKumori/NicoVideo-New-ComingSoon/issues) for a list of proposed features (and known issues).
 
 ---
 
