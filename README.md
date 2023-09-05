@@ -1,4 +1,6 @@
 # NicoVideo-New-ComingSoon
+<img width="1483" alt="Screenshot 2023-09-05 at 2 08 24 PM" src="https://github.com/InabaKumori/NicoVideo-New-ComingSoon/assets/51642034/0fb61510-e9d1-41e6-9356-5bd644b4a2ca">
+
 
 ## Table of Contents
 
